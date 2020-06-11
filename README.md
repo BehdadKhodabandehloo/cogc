@@ -1,8 +1,7 @@
 # cogc
 
 # Usefull Resources
-- [https://github.com/JinPu-dududu/NLP](emotion user function)
-
+- [emotion user function](https://github.com/JinPu-dududu/NLP)
 
 # Article
 
