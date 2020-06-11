@@ -1,11 +1,16 @@
 # cogc
 
+# Usefull Resources
+- [https://github.com/JinPu-dududu/NLP](emotion user function)
+
+
 # Article
 
 
-to be read:
+are read:
 - Overlapping Community Detection based on Information Dynamics (Mehrdad)
 - Community Detection in Networks with Node Attributes (Behdad)
+to be read:
 
 
 
