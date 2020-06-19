@@ -19,10 +19,8 @@ to be read:
 
 
 # Tasks
-Mehrdad:
- - emotion module
-Behdad:
- - data analysis, graph building
+ - emotion module (Mehrdad)
+ - data analysis, graph building (Behdad)
 
 
 
