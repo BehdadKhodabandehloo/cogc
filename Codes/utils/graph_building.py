@@ -13,6 +13,7 @@ def graph_maker(heads, tails, graph=None):
             graph.add_edges_from([[tails[i], heads[i]]], weight=1)
     return graph
 
+
 def static_retweet_graph(data, graph=None):
     heads = []
     tails = []
