@@ -17,7 +17,6 @@ def graph_maker(heads, tails, graph=None):
 def static_retweet_graph(data, graph=None):
     heads = []
     tails = []
-
     for item in data:
         heads.append(item['mentionField'])
         tails.append(item['ownerName'])
