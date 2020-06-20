@@ -11,7 +11,6 @@ def graph_maker(heads, tails, graph=None):
             graph[tails[i]][heads[i]]['weight'] += 1
         else:
             graph.add_edges_from([[tails[i], heads[i]]], weight=1)
-
     return graph
 
 def static_retweet_graph(data, graph=None):
@@ -20,5 +19,4 @@ def static_retweet_graph(data, graph=None):
     for item in data:
         heads.append(item['mentionField'])
         tails.append(item['ownerName'])
-
     return graph_maker(heads, tails, graph)
