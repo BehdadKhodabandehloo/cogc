@@ -9,3 +9,12 @@ def node_texts(data):
             attributes[key].append(data.iloc[i]['textField'])
         elif key not in attributes:
             attributes[key] = [data.iloc[i]['textField']]
+    return attributes
+
+def sort_by_date(data):
+    data.set_index('time_jalali', inplace=True)
+    data = data.sort_values(by='time_jalali')
+
+def node_emotion_attributes(attributes, emotion_module):
+
+
