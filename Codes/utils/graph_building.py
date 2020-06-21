@@ -15,6 +15,7 @@ def graph_maker(heads, tails, graph=None):
     return graph
 
 
+
 def static_retweet_graph(data, graph=None):
     heads = []
     tails = []
