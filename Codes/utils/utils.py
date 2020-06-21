@@ -1,4 +1,6 @@
 
+
+
 def node_texts(data):
     attributes = {}
     for i in range(len(data)):
