@@ -18,7 +18,7 @@ data = pd.read_csv()
 def static_retweet_graph(data, graph=None):
     heads = []
     tails = []
-    for item in data:
-        heads.append(item['mentionField'])
-        tails.append(item['ownerName'])
+    for i in range(len(data)):
+        heads.append(data.iloc[i]['mentionField'])
+        tails.append(data.iloc[i]['ownerName'])
     return graph_maker(heads, tails, graph)
