@@ -2,8 +2,10 @@
 
 # Usefull Resources
 - [emotion user function](https://github.com/JinPu-dududu/NLP)
+
 emotion module:
 - [Emotion Detection in Persian Text; A Machine Learning Model](http://bjcp.ir/article-1-1471-en.html)
+
 Community detection implementation:
 - [Community Detection with node attributes implementation](https://github.com/snap-stanford/snap/tree/master/examples/cesna)
 
