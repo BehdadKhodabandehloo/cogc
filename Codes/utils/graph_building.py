@@ -13,7 +13,6 @@ def graph_maker(heads, tails, graph=None):
             graph.add_edges_from([[tails[i], heads[i]]], weight=1)
     return graph
 
-data = pd.read_csv()
 
 def static_retweet_graph(data, graph=None):
     heads = []
@@ -22,3 +21,6 @@ def static_retweet_graph(data, graph=None):
         heads.append(data.iloc[i]['mentionField'])
         tails.append(data.iloc[i]['ownerName'])
     return graph_maker(heads, tails, graph)
+
+# how to load from server?
+data = pd.read_csv("")
