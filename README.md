@@ -4,7 +4,8 @@
 - [emotion user function](https://github.com/JinPu-dududu/NLP)
 
 # Article
-
+emotion module:
+- [Emotion Detection in Persian Text; A Machine Learning Model](http://bjcp.ir/article-1-1471-en.html)
 
 are read:
 - Overlapping Community Detection based on Information Dynamics (Mehrdad)
