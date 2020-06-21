@@ -24,4 +24,4 @@ def static_retweet_graph(data, graph=None):
     return graph_maker(heads, tails, graph)
 
 # how to load from server?
-data = pd.read_csv("")
+data = pd.read_csv("") # here we should read raw data
