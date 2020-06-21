@@ -14,6 +14,7 @@ def node_texts(data):
 def sort_by_date(data):
     data.set_index('time_jalali', inplace=True)
     data = data.sort_values(by='time_jalali')
+    return data
 
 def node_emotion_attributes(attributes, emotion_module):
 
