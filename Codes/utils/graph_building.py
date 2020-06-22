@@ -13,8 +13,9 @@ df.set_index('time_jalali', inplace=True)
 df = df.sort_values(by='time_jalali')
 
 nodes_texts = nodes_texts(data)
+# nodes_emotions?
 
-def dynamic_retweet_graph_maker(data,nodes_texts, graph=None):
+def dynamic_retweet_graph(data,nodes_texts, graph=None):
     # retweet dynamic directed graph initialization
     if graph is None:
         graph = dn.DynDiGraph()
