@@ -14,7 +14,7 @@ df = df.sort_values(by='time_jalali')
 
 nodes_texts = nodes_texts(data)
 
-def graph_maker(data, graph=None):
+def graph_maker(data,nodes_texts, graph=None):
     # retweet dynamic directed graph initialization
     if graph is None:
         graph = dn.DynDiGraph()
