@@ -19,7 +19,7 @@ def graph_maker(data,nodes_texts, graph=None):
     if graph is None:
         graph = dn.DynDiGraph()
     # add nodes and their attributes to the graph
-    for item in nodes_texts.keys():
+    for item in list(nodes_texts.keys()):
         graph.add_node(key, text=nodes_texts[item])
     # adding weights to 'graph'
     heads = []
