@@ -2,6 +2,7 @@
 
 import networkx as nx
 import pandas as pd
+from utils import *
 
 def graph_maker(heads, tails, graph=None):
     # graph initiate
@@ -15,7 +16,6 @@ def graph_maker(heads, tails, graph=None):
     return graph
 
 
-
 def static_retweet_graph(data, graph=None):
     heads = []
     tails = []
@@ -25,4 +25,25 @@ def static_retweet_graph(data, graph=None):
     return graph_maker(heads, tails, graph)
 
 # how to load from server?
-data = pd.read_csv("") # here we should read raw data
+df = pd.read_csv("") # here we should read raw data
+df.set_index('time_jalali', inplace=True)
+df = df.sort_values(by='time_jalali')
+
+nodes_texts = nodes_texts(data)
+def dynamic_retweet_graph(data, nodes_texts, graph=None):
+    # dynamic graph initialization
+    graph = dn.DynDiGraph()
+    # add nodes and their attributes to the graph
+    for item in nodes_texts.keys():
+        graph.add_node(key, text=nodes_texts[item])
+
+    heads = []
+    tails = []
+    timestamps = []
+    texts = []
+
+    
+
+
+    return snapshots
+
