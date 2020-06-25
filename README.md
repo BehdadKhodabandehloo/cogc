@@ -23,8 +23,8 @@ to be read:
 
 
 # Tasks
- - emotion module (Mehrdad)
- - data analysis, graph building (Behdad)
+ - clustering on all of the content based on emotions (Mehrdad)
+ - community detetection on the retweet graph and content analysis based on emotions (Behdad)
 
 
 
