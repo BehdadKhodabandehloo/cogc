@@ -23,11 +23,11 @@ to be read:
 
 
 # Tasks
- - clustering on all of the content based on emotions (Mehrdad)
- - community detetection on the retweet graph and content analysis based on emotions (Behdad)
+ - visualization with user emotion and timestamp (Mehrdad)
+ - community detetection on the retweet graph and content analysis based on emotions and visualization(Behdad)
 
 
 
 
 # Meeting 
-Thursday 04:00 pm
+saturday 04:00 pm
