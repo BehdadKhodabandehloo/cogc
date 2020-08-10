@@ -21,12 +21,15 @@ are read:
 to be read:
 
 
-
+# Approaches
+ - 1. dynamic community discovery by using emotional features 
+ - 2. community discovery by node attributes and then dynamic analysis
+ 
 # Tasks
- - visualization with user emotion and timestamp (Mehrdad)
- - community detetection on the retweet graph and content analysis based on emotions and visualization(Behdad)
-
-
+ - analysis of " Community Detection in Networks with Node Attributes" and "Analysis of group evolution prediction in
+complex networks" (both)
+ - server finding (Mehrdad)
+ - khanoome arabzadeh peygiri (Behdad)
 
 
 # Meeting 
