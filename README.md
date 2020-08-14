@@ -26,12 +26,9 @@ to be read:
  - 2. community discovery by node attributes and then dynamic analysis
  
 # Tasks
- - analysis of " Community Detection in Networks with Node Attributes" and "Analysis of group evolution prediction in
-complex networks" (both)
- - server finding (Mehrdad)
- - khanoome arabzadeh peygiri (Behdad)
- - hamahangi aarabi kalhor (Behdad)
- - gozaresh (both)
+ - server finding (both)
+ - compute emotions on all data and develop on features set and run from github lescovec (mehrdad)
+ - studying on chain identification and develop on it (Behdad)
 
 
 # Meeting 
