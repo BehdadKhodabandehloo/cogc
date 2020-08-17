@@ -27,8 +27,8 @@ to be read:
  
 # Tasks
  - server finding (both)
- - compute emotions on all data and develop on features set and run from github lescovec (mehrdad)
- - studying on chain identification and develop on it (Behdad)
+ - compute emotions on all data and run from github lescovec and studying on dynamic building methods(mehrdad)
+ - develop on input of chain identification and studying on prediction (Behdad)
 
 
 # Meeting 
