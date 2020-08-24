@@ -24,12 +24,14 @@ to be read:
 # Approaches
  - 1. dynamic community discovery by using emotional features 
  - 2. community discovery by node attributes and then dynamic analysis
+ - 3. Run these idea and project on Telegram Forwards Networks
  
 # Tasks
- - server finding (both)
- - compute emotions on all data and run from github lescovec and studying on dynamic building methods(mehrdad)
- - develop on input of chain identification and studying on prediction (Behdad)
+ - transfer emotions to 132 server, Run on new experiment setup, Run other emotions, plot cluster of words for any community(mehrdad)
+ - Run on new experiment setup, plot on chain communities for emotions weights (Behdad)
 
-
+# Reports Points
+ - cluster of words for every community
+ 
 # Meeting 
 saturday 04:00 pm
