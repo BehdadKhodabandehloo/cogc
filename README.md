@@ -28,8 +28,9 @@ to be read:
  - 4. Community detection based on other aspects like economy , ...
  
 # Tasks
- - transfer emotions to 132 server, Run on new experiment setup, Run other emotions, plot cluster of words for any community(mehrdad)
- - Run on new experiment setup, plot on chain communities for emotions weights (Behdad)
+ - cm=10, remove corona, corona virus, virus coron persian and english keyword from hashtags(mehrdad)
+ - plot on chain communities for emotions weights, share overleaf (Behdad)
+ - tuesday: poster
 
 # Reports Points
  - cluster of words for every community
