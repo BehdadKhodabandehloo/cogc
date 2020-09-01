@@ -28,8 +28,8 @@ to be read:
  - 4. Community detection based on other aspects like economy , ...
  
 # Tasks
- - cm=10, remove corona, corona virus, virus coron persian and english keyword from hashtags(mehrdad)
- - plot on chain communities for emotions weights, share overleaf (Behdad)
+ - implement overlapped, template overleaf(mehrdad)
+ - plot on chain communities for emotions weights(Behdad)
  - tuesday: poster
 
 # Reports Points
