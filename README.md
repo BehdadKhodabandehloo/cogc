@@ -25,7 +25,8 @@ to be read:
  - 1. dynamic community discovery by using emotional features 
  - 2. community discovery by node attributes and then dynamic analysis
  - 3. Run these idea and project on Telegram Forwards Networks
- - 4. Community detection based on other aspects like economy , ...
+ - 4. Community detection based on other aspects like economy
+ - 5. Run this method on English Data
  
 # Tasks
  - think about ideas(mehrdad)
