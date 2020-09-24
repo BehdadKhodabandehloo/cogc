@@ -28,12 +28,6 @@ to be read:
  - 4. Community detection based on other aspects like economy , ...
  
 # Tasks
- - implement overlapped, template overleaf(mehrdad)
- - plot on chain communities for emotions weights(Behdad)
- - tuesday: poster
+ - think about ideas(mehrdad)
+ - think about ideas(Behdad)
 
-# Reports Points
- - cluster of words for every community
- 
-# Meeting 
-saturday 04:00 pm
